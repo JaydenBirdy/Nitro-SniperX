@@ -3,4 +3,4 @@ This is a legit nitro sniper. you can generate nitro and check them if they work
 
 
 # Javascript
-the javascript is not working atm srry.
+The javascript is not working atm srry.
