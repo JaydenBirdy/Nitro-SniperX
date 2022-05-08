@@ -1,1 +1,1 @@
-var nitro 
+var nitrolinkprefix = https://discord.gift/
